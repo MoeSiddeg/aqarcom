@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470967179718",
+    "project_id": "aqarcom-4cc7a",
+    "storage_bucket": "aqarcom-4cc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470967179718:android:496f5fb19bccb9aece7ac7",
+        "android_client_info": {
+          "package_name": "com.example.aqarcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJw5vwtKMKTyX0Vy9TSBa5o8Hys9iLdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
