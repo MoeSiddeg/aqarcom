@@ -136,29 +136,15 @@ class AdvertisementCard extends StatelessWidget {
               },
             ),
           ),
-          const Positioned(
+           Positioned(
             top: 100,
             right : 145,
             child: Text(
-              '1300', // Replace with actual time if needed
+              '$price\$', // Replace with actual time if needed
               style: TextStyle(
-                fontSize: 10,
+                fontSize: 7,
                 fontWeight: FontWeight.bold,
                 color: Colors.yellow,
-              ),
-            ),
-          ),
-          Positioned(
-            bottom: 10.0, // Adjust positioning as needed
-            right: 10.0, // Adjust positioning as needed
-            child: Text(
-              '500', // Text content
-              style: GoogleFonts.cairo(
-                textStyle: TextStyle(
-                  color: Colors.white, // Adjust color as needed
-                  fontSize: 12.sp, // Adjust font size as needed
-                  fontWeight: FontWeight.bold,
-                ),
               ),
             ),
           ),
